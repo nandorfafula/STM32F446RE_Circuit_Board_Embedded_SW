@@ -1,4 +1,4 @@
-# STM32F446RE Circuit Board Embedded SW
+# STM32F446RE Circuit Board Embedded SW (Bubble-tube)
 
 This is the repository of the software of my own circuit board for STM32F446RE microcontroller.
 
